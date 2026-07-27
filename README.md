@@ -3,6 +3,7 @@
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -39,4 +40,12 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/pandeyshivansh-tech/Leethub/tree/master/1721-swapping-nodes-in-a-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
