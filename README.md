@@ -3,6 +3,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0020-valid-parentheses) |
 ## Stack
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0069-sqrtx) |
 ## Array
 |  |
@@ -43,6 +45,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Backtracking
 |  |
