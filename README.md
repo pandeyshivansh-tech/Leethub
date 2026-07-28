@@ -29,6 +29,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0027-remove-element) |
 | [0162-find-peak-element](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0704-binary-search) |
 ## Binary Search
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0027-remove-element) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/pandeyshivansh-tech/Leethub/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Hash Table
 |  |
