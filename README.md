@@ -22,6 +22,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0141-linked-list-cycle) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/pandeyshivansh-tech/Leethub/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
@@ -59,12 +60,14 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0141-linked-list-cycle) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/pandeyshivansh-tech/Leethub/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0141-linked-list-cycle](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0141-linked-list-cycle) |
 ## Backtracking
 |  |
 | ------- |
