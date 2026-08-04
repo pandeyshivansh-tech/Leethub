@@ -8,6 +8,7 @@
 | [0020-valid-parentheses](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
@@ -33,6 +34,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0069-sqrtx) |
 ## Array
 |  |
@@ -123,4 +125,12 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
