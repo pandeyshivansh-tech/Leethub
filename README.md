@@ -41,6 +41,7 @@
 | [0067-add-binary](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0070-climbing-stairs) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/pandeyshivansh-tech/Leethub/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Array
 |  |
 | ------- |
@@ -151,4 +152,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/pandeyshivansh-tech/Leethub/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
