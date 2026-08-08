@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -47,6 +48,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0035-search-insert-position) |
@@ -166,4 +168,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pandeyshivansh-tech/Leethub/tree/master/3345-smallest-divisible-digit-product-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
