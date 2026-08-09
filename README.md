@@ -21,6 +21,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -31,12 +32,14 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0066-plus-one) |
