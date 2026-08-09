@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0067-add-binary) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0022-generate-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0509-fibonacci-number) |
@@ -175,4 +178,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0014-longest-common-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
