@@ -12,6 +12,7 @@
 | [0058-length-of-last-word](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0125-valid-palindrome) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/pandeyshivansh-tech/Leethub/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0160-intersection-of-two-linked-lists) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/pandeyshivansh-tech/Leethub/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
 |  |
 | ------- |
@@ -185,4 +187,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0022-generate-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/pandeyshivansh-tech/Leethub/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
