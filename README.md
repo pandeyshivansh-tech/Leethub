@@ -218,4 +218,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0547-number-of-provinces) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
