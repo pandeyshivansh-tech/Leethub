@@ -223,5 +223,6 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0180-consecutive-numbers) |
+| [0183-customers-who-never-order](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
