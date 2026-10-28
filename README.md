@@ -69,6 +69,7 @@
 | [0140-word-break-ii](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0140-word-break-ii) |
 | [0162-find-peak-element](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0704-binary-search) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/pandeyshivansh-tech/Leethub/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [0141-linked-list-cycle](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0160-intersection-of-two-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/pandeyshivansh-tech/Leethub/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/pandeyshivansh-tech/Leethub/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0088-merge-sorted-array) |
 | [0451-sort-characters-by-frequency](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0451-sort-characters-by-frequency) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/pandeyshivansh-tech/Leethub/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Tree
 |  |
 | ------- |
@@ -240,4 +243,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0451-sort-characters-by-frequency) |
+## Greedy
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/pandeyshivansh-tech/Leethub/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
