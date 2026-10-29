@@ -60,6 +60,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0035-search-insert-position) |
+| [0057-insert-interval](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
