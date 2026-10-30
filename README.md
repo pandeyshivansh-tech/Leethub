@@ -142,6 +142,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/pandeyshivansh-tech/Leethub/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -162,6 +163,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/pandeyshivansh-tech/Leethub/tree/master/1971-find-if-path-exists-in-graph) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -221,10 +223,12 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/pandeyshivansh-tech/Leethub/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/pandeyshivansh-tech/Leethub/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/pandeyshivansh-tech/Leethub/tree/master/1971-find-if-path-exists-in-graph) |
 ## Database
 |  |
 | ------- |
